@@ -142,21 +142,21 @@ body {
 
 
 .b1 {
-    background-image: url("cro1.png");
+    background-image: url("cro1.jpeg");
     top: 10%;
     left: 20%;
     transform: translateX(-50%);
 }
 
 .b2 {
-    background-image: url("cro2.png");
+    background-image: url("cro2.jpeg");
     top: 10%;
     left: 50%;
     transform: translateX(-50%);
 }
 
 .b3 {
-    background-image: url("cro3.png");
+    background-image: url("cro3.jpeg");
     top: 10%;
     left: 80%;
     transform: translateX(-50%);
