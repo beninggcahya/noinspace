@@ -162,15 +162,3 @@ body {
     transform: translateX(-50%);
 }
 
-.sorry {
-    position: absolute;
-
-    width: 70%; 
-    aspect-ratio: 1044 / 54;
-
-    background: url("sorry.png") center / contain no-repeat;
-
-    top: 90%;
-    left: 50%;
-    transform: translateX(-50%);
-}
